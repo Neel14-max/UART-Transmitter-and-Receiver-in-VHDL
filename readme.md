@@ -176,15 +176,17 @@ PASS: Received 56
 PASS: Received AA
 PASS: Received FF
 
-#**📈 Waveform**
 
- 📷 Flowchart
+**📷 Flowchart**
+
 ![UART Flowchart](docs/flowchart.png)
 
- 📡 Data Flow
+**📡 Data Flow**
+
 ![UART Data Flow](docs/dataflow.png)
 
- 📈 Waveform
+**📈 Waveform**
+
 ![UART Waveform](docs/uart_waveform.png)
 
 **⚠️ Simulation Note**
@@ -228,4 +230,3 @@ Achieved reliable communication using oversampling
 **👨‍💻 Author**
 
 Neel Raval
-Electronics & Communication Engineering
