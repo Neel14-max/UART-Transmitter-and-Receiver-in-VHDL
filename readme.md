@@ -167,7 +167,7 @@ vlog rtl/*.v
 vlog sim/*.v
 vsim uart_top_tb
 run -all
-```
+
 📊 Expected Output
 
 PASS: Received 40
