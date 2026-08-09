@@ -169,14 +169,14 @@ vlog sim/*.v
 vsim uart_top_tb
 run -all
 ```
-📊 Expected Output
+**📊 Expected Output**
 
 PASS: Received 40
 PASS: Received 56
 PASS: Received AA
 PASS: Received FF
 
-📈 Waveform
+#**📈 Waveform**
 
  📷 Flowchart
 ![UART Flowchart](docs/flowchart.png)
