@@ -31,8 +31,9 @@ This project implements:
 ✔ **Clean modular architecture**
 
 ---
-```
 ## **🧱 System Architecture**
+```
+
 
            +---------------------+
            |   baudrate_gen      |
@@ -96,9 +97,9 @@ UART-Transmitter-and-Receiver-in-Verilog/
 │   └── uart_diagram.png
 │
 ├── README.md
-└── .gitignore```
+└── .gitignore
 
-
+```
 
 ## **⚙️ Module Description**
 
@@ -167,7 +168,7 @@ vlog rtl/*.v
 vlog sim/*.v
 vsim uart_top_tb
 run -all
-
+```
 📊 Expected Output
 
 PASS: Received 40
