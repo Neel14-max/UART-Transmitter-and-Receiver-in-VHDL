@@ -187,7 +187,7 @@ PASS: Received FF
  📈 Waveform
 ![UART Waveform](docs/uart_waveform.png)
 
-⚠️ Simulation Note
+**⚠️ Simulation Note**
 
 For simulation:
 
@@ -200,7 +200,7 @@ parameter clk_freq  = 50_000_000;
 parameter baud_rate = 115200;
 
 
-💡 Key Concepts Used
+**💡 Key Concepts Used**
 
 Finite State Machine (FSM)
 Serial Communication
@@ -209,7 +209,7 @@ Clock Division
 Digital Design
 
 
-🚀 Applications
+**🚀 Applications**
 
 Embedded systems UART communication
 FPGA-based serial interfaces
@@ -217,7 +217,7 @@ Debug communication channels
 Industrial communication systems
 
 
-💼 Project Highlights
+**💼 Project Highlights**
 
 Designed a complete UART system from scratch
 Implemented FSM-based TX and RX
@@ -225,7 +225,7 @@ Built self-checking verification testbench
 Achieved reliable communication using oversampling
 
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Neel Raval
 Electronics & Communication Engineering
